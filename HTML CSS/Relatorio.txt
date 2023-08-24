@@ -1,0 +1,8 @@
+Relatorio sobre a ATIVIDADE
+
+Fiz um site com o objetivo de vender ingressos da banda de metal GHOST BC
+utilizei o maximo do meu conhecimento de HTML E CSS que ja considero medianos
+mas a respeito do JavaScript no momento atual nao tenho muito conhecimento apenas o basico 
+criar variaveis e adicionar funçoes e alertas, nesse site utilizei somente alertas por ser mais simples.
+
+DEMAIS COMENTARIOS SOBRE O CODIGO EM SI ESTA NO DOCUMENTO NO FORMATO VSCODE dentro da pasta
